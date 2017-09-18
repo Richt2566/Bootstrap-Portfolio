@@ -65,3 +65,14 @@ body {
 	}
 }
 
+@media screen and (max-width: 500px) {
+	.port {
+		width: 270px;
+		height: 270px;
+	}
+
+	.portf img {
+		margin-left: 40px;
+	}
+}
+
